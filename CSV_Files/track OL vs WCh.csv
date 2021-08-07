@@ -1,0 +1,457 @@
+Where,Year,Event,Distance,Sex,Rank,Lane,Athlete,Nation,Time,Notes,Wind m/s
+Olympics,2021,Run,100,M,1,3,Marcell Jacobs, Italy,9.8,AR,0
+Olympics,2021,Run,100,M,2,5,Fred Kerley, United States,9.84,PB,0
+Olympics,2021,Run,100,M,3,9,Andre De Grasse, Canada,9.89,PB,0
+Olympics,2021,Run,100,M,4,2,Akani Simbine, South Africa,9.93,,0
+Olympics,2021,Run,100,M,5,7,Ronnie Baker, United States,9.95,,0
+Olympics,2021,Run,100,M,6,6,Su Bingtian, China,9.98,,0
+Olympics,2021,Run,100,M,,8,Enoch Adegoke, Nigeria,,DNF,0
+Olympics,2021,Run,100,M,,4,Zharnel Hughes, Great Britain,,DQ,0
+Olympics,2021,Run,10000,M,1,,Selemon Barega, Ethiopia,27:43.2,,0
+Olympics,2021,Run,10000,M,2,,Joshua Cheptegei, Uganda,27:43.6,SB,0
+Olympics,2021,Run,10000,M,3,,Jacob Kiplimo, Uganda,27:43.9,,0
+Olympics,2021,Run,10000,M,4,,Berihu Aregawi, Ethiopia,27:46.2,,0
+Olympics,2021,Run,10000,M,5,,Grant Fisher, United States,27:46.4,,0
+Olympics,2021,Run,10000,M,6,,Mohammed Ahmed, Canada,27:47.8,SB,0
+Olympics,2021,Run,10000,M,7,,Rodgers Kwemoi, Kenya,27:50.1,,0
+Olympics,2021,Run,10000,M,8,,Yomif Kejelcha, Ethiopia,27:52.0,,0
+Olympics,2021,Run,10000,M,9,,Rhonex Kipruto, Kenya,27:52.8,,0
+Olympics,2021,Run,10000,M,10,,Morhad Amdouni, France,27:53.6,NR,0
+Olympics,2021,Run,10000,M,11,,Yemaneberhan Crippa, Italy,27:54.1,SB,0
+Olympics,2021,Run,10000,M,12,,Aron Kifle, Eritrea,28:04.1,,0
+Olympics,2021,Run,10000,M,13,,Carlos Mayo, Spain,28:04.7,,0
+Olympics,2021,Run,10000,M,14,,Marc Scott, Great Britain,28:09.2,,0
+Olympics,2021,Run,10000,M,15,,Woody Kincaid, United States,28:11.0,,0
+Olympics,2021,Run,10000,M,16,,Joe Klecker, United States,28:14.2,,0
+Olympics,2021,Run,10000,M,17,,Akira Aizawa, Japan,28:18.4,SB,0
+Olympics,2021,Run,10000,M,18,,Isaac Kimeli, Belgium,28:31.9,,0
+Olympics,2021,Run,10000,M,19,,Patrick Tiernan, Australia,28:35.1,SB,0
+Olympics,2021,Run,10000,M,20,,Weldon Langat, Kenya,28:41.4,,0
+Olympics,2021,Run,10000,M,21,,Julien Wanders, Switzerland,28:55.3,SB,0
+Olympics,2021,Run,10000,M,22,,Tatsuhiko Ito, Japan,29:01.3,,0
+Olympics,2021,Run,10000,M,23,,Kieran Tuntivate, Thailand,29:01.9,,0
+Olympics,2021,Run,10000,M,,,Sam Atkin, Great Britain,,DNF,0
+Olympics,2021,Run,10000,M,,,Stephen Kissa, Uganda,,DNF,0
+Olympics,2021,Hurdles,400,M,1,6,Karsten Warholm, Norway,45.94,WR,0
+Olympics,2021,Hurdles,400,M,2,5,Rai Benjamin, United States,46.17,AR,0
+Olympics,2021,Hurdles,400,M,3,7,Alison dos Santos, Brazil,46.72,AR,0
+Olympics,2021,Hurdles,400,M,4,4,Kyron McMaster, British Virgin Islands,47.08,NR,0
+Olympics,2021,Hurdles,400,M,5,8,Abderrahman Samba, Qatar,47.12,SB,0
+Olympics,2021,Hurdles,400,M,6,3,Yasmani Copello, Turkey,47.81,NR,0
+Olympics,2021,Hurdles,400,M,7,9,Rasmus Mägi, Estonia,48.11,NR,0
+Olympics,2021,Hurdles,400,M,8,2,Alessandro Sibilio, Italy,48.77,,0
+Olympics,2021,Steeplechase,3000,M,1,,Soufiane El Bakkali, Morocco,08:08.9,,0
+Olympics,2021,Steeplechase,3000,M,2,,Lamecha Girma, Ethiopia,08:10.4,,0
+Olympics,2021,Steeplechase,3000,M,3,,Benjamin Kigen, Kenya,08:11.5,,0
+Olympics,2021,Steeplechase,3000,M,4,,Getnet Wale, Ethiopia,08:15.0,,0
+Olympics,2021,Steeplechase,3000,M,5,,Yemane Haileselassie, Eritrea,08:15.3,,0
+Olympics,2021,Steeplechase,3000,M,6,,Matthew Hughes, Canada,08:16.0,,0
+Olympics,2021,Steeplechase,3000,M,7,,Ryuji Miura, Japan,08:16.9,,0
+Olympics,2021,Steeplechase,3000,M,8,,Topi Raitanen, Finland,08:17.4,,0
+Olympics,2021,Steeplechase,3000,M,9,,Ala Zoghlami, Italy,08:18.5,,0
+Olympics,2021,Steeplechase,3000,M,10,,Abraham Kibiwott, Kenya,08:19.4,,0
+Olympics,2021,Steeplechase,3000,M,11,,Benard Keter, United States,08:22.1,,0
+Olympics,2021,Steeplechase,3000,M,12,,Alexis Phelut, France,08:23.1,,0
+Olympics,2021,Steeplechase,3000,M,13,,Mohamed Tindouft, Morocco,08:23.6,,0
+Olympics,2021,Steeplechase,3000,M,14,,Ahmed Abdelwahed, Italy,08:24.3,,0
+Olympics,2021,Steeplechase,3000,M,15,,John Gay, Canada,08:35.4,,0
+Olympics,2021,Run,100,F,1,4,Elaine Thompson-Herah, Jamaica,10.61,"OR, NR",-0.6
+Olympics,2021,Run,100,F,2,5,Shelly-Ann Fraser-Pryce, Jamaica,10.74,,-0.6
+Olympics,2021,Run,100,F,3,7,Shericka Jackson, Jamaica,10.76,PB,-0.6
+Olympics,2021,Run,100,F,4,6,Marie-Josée Ta Lou, Ivory Coast,10.91,,-0.6
+Olympics,2021,Run,100,F,5,8,Ajla Del Ponte, Switzerland,10.97,,-0.6
+Olympics,2021,Run,100,F,6,9,Mujinga Kambundji, Switzerland,10.99,,-0.6
+Olympics,2021,Run,100,F,7,3,Teahna Daniels, United States,11.02,,-0.6
+Olympics,2021,Run,100,F,8,2,Daryll Neita, Great Britain,11.12,,-0.6
+Olympics,2021,Run,200,F,1,7,Elaine Thompson-Herah, Jamaica,21.53,NR,0.8
+Olympics,2021,Run,200,F,2,5,Christine Mboma, Namibia,21.81,WU20R,0.8
+Olympics,2021,Run,200,F,3,3,Gabrielle Thomas, United States,21.87,,0.8
+Olympics,2021,Run,200,F,4,4,Shelly-Ann Fraser-Pryce, Jamaica,21.94,,0.8
+Olympics,2021,Run,200,F,5,6,Marie-Josee Ta Lou, Ivory Coast,22.27,,0.8
+Olympics,2021,Run,200,F,6,8,Beatrice Masilingi, Namibia,22.28,PB,0.8
+Olympics,2021,Run,200,F,7,2,Mujinga Kambundji, Switzerland,22.3,,0.8
+Olympics,2021,Run,200,F,8,9,Shaunae Miller-Uibo, Bahamas,24,,0.8
+Olympics,2021,Run,800,F,1,3,Athing Mu, United States,01:55.2,NR AJR,0
+Olympics,2021,Run,800,F,2,4,Keely Hodgkinson, Great Britain,01:55.9,NR,0
+Olympics,2021,Run,800,F,3,8,Raevyn Rogers, United States,01:56.8,PB,0
+Olympics,2021,Run,800,F,4,6,Jemma Reekie, Great Britain,01:56.9,PB,0
+Olympics,2021,Run,800,F,5,2,Wang Chunyu, China,01:57.0,PB,0
+Olympics,2021,Run,800,F,6,7,Habitam Alemu, Ethiopia,01:57.6,SB,0
+Olympics,2021,Run,800,F,7,1,Alexandra Bell, Great Britain,01:57.7,PB,0
+Olympics,2021,Run,800,F,8,5,Natoya Goule, Jamaica,01:58.3,,0
+Olympics,2021,Run,5000,F,1,,Sifan Hassan, Netherlands,14:36.8,,0
+Olympics,2021,Run,5000,F,2,,Hellen Obiri, Kenya,14:38.4,,0
+Olympics,2021,Run,5000,F,3,,Gudaf Tsegay, Ethiopia,14:38.9,,0
+Olympics,2021,Run,5000,F,4,,Agnes Jebet Tirop, Kenya,14:39.6,SB,0
+Olympics,2021,Run,5000,F,5,,Ejgayehu Taye, Ethiopia,14:41.2,,0
+Olympics,2021,Run,5000,F,6,,Senbere Teferi, Ethiopia,14:45.1,,0
+Olympics,2021,Run,5000,F,7,,Nadia Battocletti, Italy,14:46.3,PB,0
+Olympics,2021,Run,5000,F,8,,Yasemin Can, Turkey,14:46.5,,0
+Olympics,2021,Run,5000,F,9,,Ririka Hironaka, Japan,14:52.8,NR,0
+Olympics,2021,Run,5000,F,10,,Selamawit Teferi, Israel,14:54.4,,0
+Olympics,2021,Run,5000,F,11,,Karissa Schweizer, United States,14:55.8,,0
+Olympics,2021,Run,5000,F,12,,Lilian Kasait Rengeruk, Kenya,14:55.9,,0
+Olympics,2021,Run,5000,F,13,,Elise Cranny, United States,14:56.0,SB,0
+Olympics,2021,Run,5000,F,14,,Karoline Bjerkeli Grovdal, Norway,15:09.4,,0
+Olympics,2021,Run,5000,F,15,,Andrea Seccafien, Canada,15:12.1,,0
+Olympics,2021,Hurdles,100,F,1,5,Jasmine Camacho-Quinn, Puerto Rico,12.37,,0
+Olympics,2021,Hurdles,100,F,2,4,Kendra Harrison, United States,12.52,,0
+Olympics,2021,Hurdles,100,F,3,9,Megan Tapper, Jamaica,12.55,,0
+Olympics,2021,Hurdles,100,F,4,6,Tobi Amusan, Nigeria,12.6,,0
+Olympics,2021,Hurdles,100,F,5,3,Nadine Visser, Netherlands,12.73,,0
+Olympics,2021,Hurdles,100,F,6,8,Devynne Charlton, Bahamas,12.74,,0
+Olympics,2021,Hurdles,100,F,7,2,Gabbi Cunningham, United States,13.01,,0
+Olympics,2021,Hurdles,100,F,8,7,Britany Anderson, Jamaica,13.24,,0
+Olympics,2021,Hurdles,400,F,1,4,Sydney McLaughlin, United States,51.46,WR,0
+Olympics,2021,Hurdles,400,F,2,7,Dalilah Muhammad, United States,51.58,PB,0
+Olympics,2021,Hurdles,400,F,3,5,Femke Bol, Netherlands,52.03,AR,0
+Olympics,2021,Hurdles,400,F,4,6,Janieve Russell, Jamaica,53.08,PB,0
+Olympics,2021,Hurdles,400,F,5,2,Anna Ryzhykova, Ukraine,53.48,,0
+Olympics,2021,Hurdles,400,F,6,3,Viktoriya Tkachuk, Ukraine,53.79,PB,0
+Olympics,2021,Hurdles,400,F,7,9,Gianna Woodruff, Panama,55.84,,0
+Olympics,2021,Hurdles,400,F,—,8,Anna Cockrell, United States,DQ,TR 17.3.1,0
+Olympics,2016,Run,100,M,1,6,Usain Bolt, Jamaica,9.81,SB,0.2
+Olympics,2016,Run,100,M,2,4,Justin Gatlin, United States,9.89,,0.2
+Olympics,2016,Run,100,M,3,7,Andre De Grasse, Canada,9.91,PB,0.2
+Olympics,2016,Run,100,M,4,9,Yohan Blake, Jamaica,9.93,SB,0.2
+Olympics,2016,Run,100,M,5,3,Akani Simbine, South Africa,9.94,,0.2
+Olympics,2016,Run,100,M,6,8,Ben Youssef Meïté, Ivory Coast,9.96,NR,0.2
+Olympics,2016,Run,100,M,7,5,Jimmy Vicaut, France,10.04,,0.2
+Olympics,2016,Run,100,M,8,2,Trayvon Bromell, United States,10.06,,0.2
+Olympics,2016,Run,10000,M,1,,Mo Farah, Great Britain,27:05.2,,0
+Olympics,2016,Run,10000,M,2,,Paul Tanui, Kenya,27:05.6,SB,0
+Olympics,2016,Run,10000,M,3,,Tamirat Tola, Ethiopia,27:06.3,,0
+Olympics,2016,Run,10000,M,4,,Yigrem Demelash, Ethiopia,27:06.3,,0
+Olympics,2016,Run,10000,M,5,,Galen Rupp, United States,27:08.9,SB,0
+Olympics,2016,Run,10000,M,6,,Joshua Kiprui Cheptegei, Uganda,27:10.1,PB,0
+Olympics,2016,Run,10000,M,7,,Bedan Karoki Muchiri, Kenya,27:22.9,,0
+Olympics,2016,Run,10000,M,8,,Zersenay Tadese, Eritrea,27:23.9,,0
+Olympics,2016,Run,10000,M,9,,Nguse Tesfaldet, Eritrea,27:30.8,SB,0
+Olympics,2016,Run,10000,M,10,,Abraham Cheroben, Bahrain,27:31.9,PB,0
+Olympics,2016,Run,10000,M,11,,Geoffrey Kipsang Kamworor, Kenya,27:31.9,,0
+Olympics,2016,Run,10000,M,12,,Zane Robertson, New Zealand,27:33.7,NR,0
+Olympics,2016,Run,10000,M,13,,Polat Kemboi Ar?kan, Turkey,27:35.5,PB,0
+Olympics,2016,Run,10000,M,14,,Leonard Korir, United States,27:35.6,SB,0
+Olympics,2016,Run,10000,M,15,,Abadi Hadis, Ethiopia,27:36.3,,0
+Olympics,2016,Run,10000,M,16,,David McNeill, Australia,27:51.7,,0
+Olympics,2016,Run,10000,M,17,,Suguru Osako, Japan,27:51.9,,0
+Olympics,2016,Run,10000,M,18,,Stephen Mokoka, South Africa,27:54.6,,0
+Olympics,2016,Run,10000,M,19,,Shadrack Kipchirchir, United States,27:58.3,SB,0
+Olympics,2016,Run,10000,M,20,,Bashir Abdi, Belgium,28:01.5,,0
+Olympics,2016,Run,10000,M,21,,Luis Ostos, Peru,28:02.0,,0
+Olympics,2016,Run,10000,M,22,,Moses Kurong, Uganda,28:03.4,,0
+Olympics,2016,Run,10000,M,23,,Timothy Toroitich, Uganda,28:04.8,SB,0
+Olympics,2016,Run,10000,M,24,,Goitom Kifle, Eritrea,28:16.0,,0
+Olympics,2016,Run,10000,M,25,,Andy Vernon, Great Britain,28:19.4,SB,0
+Olympics,2016,Run,10000,M,26,,El Hassan El-Abbassi, Bahrain,28:20.2,,0
+Olympics,2016,Run,10000,M,27,,Olivier Irabaruta, Burundi,28:32.8,,0
+Olympics,2016,Run,10000,M,28,,Ben St Lawrence, Australia,28:46.3,,0
+Olympics,2016,Run,10000,M,29,,Yuta Shitara, Japan,28:55.2,,0
+Olympics,2016,Run,10000,M,30,,Kota Murayama, Japan,29:02.5,,0
+Olympics,2016,Run,10000,M,31,,Ross Millington, Great Britain,29:15.0,,0
+Olympics,2016,Run,10000,M,32,,Mohammed Ahmed, Canada,29:32.8,,0
+Olympics,2016,Run,10000,M,–,,Hassan Chani, Bahrain,DNF,,0
+Olympics,2016,Run,10000,M,–,,Ali Kaya, Turkey,DNF,,0
+Olympics,2016,Hurdles,400,M,1,5,Kerron Clement, United States,47.73,SB,0
+Olympics,2016,Hurdles,400,M,2,7,Boniface Mucheru Tumuti, Kenya,47.78,NR,0
+Olympics,2016,Hurdles,400,M,3,2,Yasmani Copello, Turkey,47.92,NR,0
+Olympics,2016,Hurdles,400,M,4,4,Thomas Barr, Ireland,47.97,NR,0
+Olympics,2016,Hurdles,400,M,5,6,Annsert Whyte, Jamaica,48.07,PB,0
+Olympics,2016,Hurdles,400,M,6,1,Rasmus Mägi, Estonia,48.4,NR,0
+Olympics,2016,Hurdles,400,M,7,8,Haron Koech, Kenya,49.09,,0
+Olympics,2016,Hurdles,400,M,—,3,Javier Culson, Puerto Rico,DSQ ,R162.7,0
+Olympics,2016,Steeplechase,3000,M,1,,Conseslus Kipruto, Kenya,08:03.3,OR,0
+Olympics,2016,Steeplechase,3000,M,2,,Evan Jager, United States,08:04.3,SB,0
+Olympics,2016,Steeplechase,3000,M,3,,Mahiedine Mekhissi-Benabbad, France,08:11.5,SB,0
+Olympics,2016,Steeplechase,3000,M,4,,Soufiane El Bakkali, Morocco,08:14.4,PB,0
+Olympics,2016,Steeplechase,3000,M,5,,Yoann Kowal, France,08:16.8,SB,0
+Olympics,2016,Steeplechase,3000,M,6,,Brimin Kipruto, Kenya,08:18.8,SB,0
+Olympics,2016,Steeplechase,3000,M,7,,Hillary Bor, United States,08:22.7,PB,0
+Olympics,2016,Steeplechase,3000,M,8,,Donald Cabral, United States,08:25.8,,0
+Olympics,2016,Steeplechase,3000,M,9,,Altobeli da Silva, Brazil,08:26.3,PB,0
+Olympics,2016,Steeplechase,3000,M,10,,Matthew Hughes, Canada,08:36.8,,0
+Olympics,2016,Steeplechase,3000,M,11,,Yemane Haileselassie, Eritrea,08:40.7,,0
+Olympics,2016,Steeplechase,3000,M,–,,Jacob Araptany, Uganda,DNF,,0
+Olympics,2016,Steeplechase,3000,M,–,,Hamid Ezzine, Morocco,DNF,,0
+Olympics,2016,Steeplechase,3000,M,–,,Amor Ben Yahia, Tunisia,DQ,R163.3b,0
+Olympics,2016,Steeplechase,3000,M,–,,Ezekiel Kemboi, Kenya,DQ,R163.3b[citation needed],0
+Olympics,2016,Run,100,F,1,4,Elaine Thompson, Jamaica,10.71,,0.5
+Olympics,2016,Run,100,F,2,5,Tori Bowie, United States,10.83,,0.5
+Olympics,2016,Run,100,F,3,6,Shelly-Ann Fraser-Pryce, Jamaica,10.86,SB,0.5
+Olympics,2016,Run,100,F,4,3,Marie-Josee Ta Lou, Ivory Coast,10.86,PB,0.5
+Olympics,2016,Run,100,F,5,9,Dafne Schippers, Netherlands,10.9,,0.5
+Olympics,2016,Run,100,F,6,8,Michelle-Lee Ahye, Trinidad and Tobago,10.92,,0.5
+Olympics,2016,Run,100,F,7,7,English Gardner, United States,10.94,,0.5
+Olympics,2016,Run,100,F,8,2,Christania Williams, Jamaica,11.8,,0.5
+Olympics,2016,Run,200,F,1,6,Elaine Thompson, Jamaica,21.78,WL,-0.1
+Olympics,2016,Run,200,F,2,4,Dafne Schippers, Netherlands,21.88,SB,-0.1
+Olympics,2016,Run,200,F,3,5,Tori Bowie, United States,22.15,,-0.1
+Olympics,2016,Run,200,F,4,3,Marie Josée Ta Lou, Ivory Coast,22.21,NR,-0.1
+Olympics,2016,Run,200,F,5,2,Dina Asher-Smith, Great Britain,22.31,SB,-0.1
+Olympics,2016,Run,200,F,6,7,Michelle-Lee Ahye, Trinidad and Tobago,22.34,,-0.1
+Olympics,2016,Run,200,F,7,1,Deajah Stevens, United States,22.65,,-0.1
+Olympics,2016,Run,200,F,8,8,Ivet Lalova-Collio, Bulgaria,22.69,,-0.1
+Olympics,2016,Run,800,F,1,3,Caster Semenya, South Africa,01:55.3,NR,0
+Olympics,2016,Run,800,F,2,5,Francine Niyonsaba, Burundi,01:56.5,,0
+Olympics,2016,Run,800,F,3,4,Margaret Wambui, Kenya,01:56.9,PB,0
+Olympics,2016,Run,800,F,4,6,Melissa Bishop, Canada,01:57.0,NR,0
+Olympics,2016,Run,800,F,5,2,Joanna Jó?wik, Poland,01:57.4,PB,0
+Olympics,2016,Run,800,F,6,7,Lynsey Sharp, Great Britain,01:57.7,PB,0
+Olympics,2016,Run,800,F,7,8,Maryna Arzamasava, Belarus,01:59.1,,0
+Olympics,2016,Run,800,F,8,1,Kate Grace, United States,01:59.6,,0
+Olympics,2016,Run,5000,F,1,,Vivian Cheruiyot, Kenya,14:26.2,OR,0
+Olympics,2016,Run,5000,F,2,,Hellen Onsando Obiri, Kenya,14:29.8,PB,0
+Olympics,2016,Run,5000,F,3,,Almaz Ayana, Ethiopia,14:33.6,,0
+Olympics,2016,Run,5000,F,4,,Mercy Cherono, Kenya,14:42.9,,0
+Olympics,2016,Run,5000,F,5,,Senbere Teferi, Ethiopia,14:43.8,,0
+Olympics,2016,Run,5000,F,6,,Yasemin Can, Turkey,14:57.0,,0
+Olympics,2016,Run,5000,F,7,,Karoline Bjerkeli Grøvdal, Norway,14:57.5,PB,0
+Olympics,2016,Run,5000,F,8,,Susan Kuijken, Netherlands,15:00.7,PB,0
+Olympics,2016,Run,5000,F,9,,Eloise Wellings, Australia,15:01.6,SB,0
+Olympics,2016,Run,5000,F,10,,Madeline Heiner Hills, Australia,15:04.1,PB,0
+Olympics,2016,Run,5000,F,11,,Shelby Houlihan, United States,15:08.9,,0
+Olympics,2016,Run,5000,F,12,,Genevieve LaCaze, Australia,15:10.4,PB,0
+Olympics,2016,Run,5000,F,13,,Eilish McColgan, Great Britain,15:12.1,,0
+Olympics,2016,Run,5000,F,14,,Ababel Yeshaneh, Ethiopia,15:18.3,,0
+Olympics,2016,Run,5000,F,15,,Miyuki Uehara, Japan,15:35.0,,0
+Olympics,2016,Run,5000,F,16,,Jennifer Wenth, Austria,15:56.1,,0
+Olympics,2016,Run,5000,F,17,,Nikki Hamblin, New Zealand,16:14.2,SB,0
+Olympics,2016,Run,5000,F,–,,Abbey D'Agostino, United States,DNS,,0
+Olympics,2016,Hurdles,100,F,1,,Brianna Rollins, United States,12.48,,0
+Olympics,2016,Hurdles,100,F,2,,Nia Ali, United States,12.59,,0
+Olympics,2016,Hurdles,100,F,3,,Kristi Castlin, United States,12.61,,0
+Olympics,2016,Hurdles,100,F,4,,Cindy Ofili, Great Britain,12.63,SB,0
+Olympics,2016,Hurdles,100,F,5,,Cindy Roleder, Germany,12.74,,0
+Olympics,2016,Hurdles,100,F,6,,Pedrya Seymour, Bahamas,12.76,,0
+Olympics,2016,Hurdles,100,F,7,,Tiffany Porter, Great Britain,12.76,,0
+Olympics,2016,Hurdles,100,F,8,,Phylicia George, Canada,12.89,,0
+Olympics,2016,Hurdles,400,F,1,3,Dalilah Muhammad, United States,53.13,,0
+Olympics,2016,Hurdles,400,F,2,4,Sara Petersen, Denmark,53.55,NR,0
+Olympics,2016,Hurdles,400,F,3,5,Ashley Spencer, United States,53.72,PB,0
+Olympics,2016,Hurdles,400,F,4,6,Zuzana Hejnová, Czech Republic,53.92,SB,0
+Olympics,2016,Hurdles,400,F,5,7,Ristananna Tracey, Jamaica,54.15,PB,0
+Olympics,2016,Hurdles,400,F,6,2,Leah Nugent, Jamaica,54.45,PB,0
+Olympics,2016,Hurdles,400,F,7,8,Janieve Russel, Jamaica,54.56,,0
+Olympics,2016,Hurdles,400,F,8,1,Eilidh Doyle, Great Britain,54.61,,0
+World Championship,2015,Run,100,M,1,5,Usain Bolt, Jamaica (JAM),9.79,SB,-0.5
+World Championship,2015,Run,100,M,2,7,Justin Gatlin, United States (USA),9.8,,-0.5
+World Championship,2015,Run,100,M,3,3,Trayvon Bromell, United States (USA),9.92,,-0.5
+World Championship,2015,Run,100,M,3,9,Andre De Grasse, Canada (CAN),9.92,PB,-0.5
+World Championship,2015,Run,100,M,5,4,Mike Rodgers, United States (USA),9.94,,-0.5
+World Championship,2015,Run,100,M,6,6,Tyson Gay, United States (USA),10,,-0.5
+World Championship,2015,Run,100,M,7,8,Asafa Powell, Jamaica (JAM),10,,-0.5
+World Championship,2015,Run,100,M,8,1,Jimmy Vicaut, France (FRA),10,,-0.5
+World Championship,2015,Run,100,M,9,2,Su Bingtian, China (CHN),10.06,,-0.5
+World Championship,2015,Run,10000,M,1,,Mo Farah, Great Britain & N.I. (GBR),27:01.1,,0
+World Championship,2015,Run,10000,M,2,,Geoffrey Kipsang, Kenya (KEN),27:01.8,,0
+World Championship,2015,Run,10000,M,3,,Paul Tanui, Kenya (KEN),27:02.8,,0
+World Championship,2015,Run,10000,M,4,,Bedan Karoki, Kenya (KEN),27:04.8,SB,0
+World Championship,2015,Run,10000,M,5,,Galen Rupp, United States (USA),27:08.9,SB,0
+World Championship,2015,Run,10000,M,6,,Abrar Osman, Eritrea (ERI),27:43.2,,0
+World Championship,2015,Run,10000,M,7,,Ali Kaya, Turkey (TUR),27:43.7,,0
+World Championship,2015,Run,10000,M,8,,Timothy Toroitich, Uganda (UGA),27:44.9,,0
+World Championship,2015,Run,10000,M,9,,Joshua Kiprui Cheptegei, Uganda (UGA),27:48.9,,0
+World Championship,2015,Run,10000,M,10,,Muktar Edris, Ethiopia (ETH),27:54.5,,0
+World Championship,2015,Run,10000,M,11,,Mosinet Geremew, Ethiopia (ETH),28:07.5,,0
+World Championship,2015,Run,10000,M,12,,El Hassan El-Abbassi, Bahrain (BHR),28:12.6,,0
+World Championship,2015,Run,10000,M,13,,Nguse Tesfaldet, Eritrea (ERI),28:14.7,,0
+World Championship,2015,Run,10000,M,14,,Cameron Levins, Canada (CAN),28:15.2,,0
+World Championship,2015,Run,10000,M,15,,Hassan Mead, United States (USA),28:16.3,,0
+World Championship,2015,Run,10000,M,16,,Shadrack Kipchirchir, United States (USA),28:16.3,SB,0
+World Championship,2015,Run,10000,M,17,,Arne Gabius, Germany (GER),28:24.5,,0
+World Championship,2015,Run,10000,M,18,,Tetsuya Yoroizaka, Japan (JPN),28:25.8,,0
+World Championship,2015,Run,10000,M,19,,Teklemariam Medhin, Eritrea (ERI),28:39.3,SB,0
+World Championship,2015,Run,10000,M,20,,Stephen Mokoka, South Africa (RSA),28:47.4,,0
+World Championship,2015,Run,10000,M,21,,Aweke Ayalew, Bahrain (BHR),29:14.6,PB,0
+World Championship,2015,Run,10000,M,22,,Kenta Murayama, Japan (JPN),29:50.2,,0
+World Championship,2015,Run,10000,M,23,,Yuta Shitara, Japan (JPN),30:08.3,,0
+World Championship,2015,Run,10000,M,,,Bashir Abdi, Belgium (BEL),DNF,,0
+World Championship,2015,Run,10000,M,,,Ismail Juma, Tanzania (TAN),DNF,,0
+World Championship,2015,Run,10000,M,,,Imane Merga, Ethiopia (ETH),DNF,,0
+World Championship,2015,Run,10000,M,,,Moses Kibet, Uganda (UGA),DNF,,0
+World Championship,2015,Hurdles,400,M,1,9,Nicholas Bett, Kenya (KEN),47.79,"WL, NR",0
+World Championship,2015,Hurdles,400,M,2,6,Denis Kudryavtsev, Russia (RUS),48.05,NR,0
+World Championship,2015,Hurdles,400,M,3,7,Jeffery Gibson, Bahamas (BAH),48.17,NR,0
+World Championship,2015,Hurdles,400,M,4,8,Kerron Clement, United States (USA),48.18,SB,0
+World Championship,2015,Hurdles,400,M,5,4,Boniface Tumuti, Kenya (KEN),48.33,,0
+World Championship,2015,Hurdles,400,M,6,2,Yasmani Copello, Turkey (TUR),48.96,,0
+World Championship,2015,Hurdles,400,M,7,3,Patryk Dobek, Poland (POL),49.14,,0
+World Championship,2015,Hurdles,400,M,8,5,Michael Tinsley, United States (USA),50.02,,0
+World Championship,2015,Steeplechase,3000,M,1,,Ezekiel Kemboi, Kenya (KEN),08:11.3,,0
+World Championship,2015,Steeplechase,3000,M,2,,Conseslus Kipruto, Kenya (KEN),08:12.4,,0
+World Championship,2015,Steeplechase,3000,M,3,,Brimin Kipruto, Kenya (KEN),08:12.5,,0
+World Championship,2015,Steeplechase,3000,M,4,,Jairus Kipchoge Birech, Kenya (KEN),08:12.6,,0
+World Championship,2015,Steeplechase,3000,M,5,,Daniel Huling, United States (USA),08:14.4,,0
+World Championship,2015,Steeplechase,3000,M,6,,Evan Jager, United States (USA),08:15.5,,0
+World Championship,2015,Steeplechase,3000,M,7,,Brahim Taleb, Morocco (MAR),08:17.7,,0
+World Championship,2015,Steeplechase,3000,M,8,,Matthew Hughes, Canada (CAN),08:18.6,SB,0
+World Championship,2015,Steeplechase,3000,M,9,,Krystian Zalewski, Poland (POL),08:21.2,SB,0
+World Championship,2015,Steeplechase,3000,M,10,,Donald Cabral, United States (USA),08:24.9,,0
+World Championship,2015,Steeplechase,3000,M,11,,Hamid Ezzine, Morocco (MAR),08:25.7,,0
+World Championship,2015,Steeplechase,3000,M,12,,Hailemariyam Amare, Ethiopia (ETH),08:26.2,,0
+World Championship,2015,Steeplechase,3000,M,13,,Bilal Tabti, Algeria (ALG),08:29.0,,0
+World Championship,2015,Steeplechase,3000,M,14,,Hicham Bouchicha, Algeria (ALG),08:33.8,,0
+World Championship,2015,Steeplechase,3000,M,15,,Tolosa Nurgi, Ethiopia (ETH),08:44.8,,0
+World Championship,2015,Run,100,F,1,,Shelly-Ann Fraser-Pryce, Jamaica (JAM),10.76,,-0.3
+World Championship,2015,Run,100,F,2,,Dafne Schippers, Netherlands (NED),10.81,NR,-0.3
+World Championship,2015,Run,100,F,3,,Tori Bowie, United States (USA),10.86,,-0.3
+World Championship,2015,Run,100,F,4,,Veronica Campbell-Brown, Jamaica (JAM),10.91,,-0.3
+World Championship,2015,Run,100,F,5,,Michelle-Lee Ahye, Trinidad and Tobago (TTO),10.98,,-0.3
+World Championship,2015,Run,100,F,6,,Kelly-Ann Baptiste, Trinidad and Tobago (TTO),11.01,,-0.3
+World Championship,2015,Run,100,F,7,,Natasha Morrison, Jamaica (JAM),11.02,,-0.3
+World Championship,2015,Run,100,F,8,,Blessing Okagbare, Nigeria (NGR),11.02,,-0.3
+World Championship,2015,Run,200,F,1,6,Dafne Schippers, Netherlands (NED),21.63,"CR, AR, WL",0
+World Championship,2015,Run,200,F,2,5,Elaine Thompson, Jamaica (JAM),21.66,PB,0
+World Championship,2015,Run,200,F,3,2,Veronica Campbell-Brown, Jamaica (JAM),21.97,SB,0
+World Championship,2015,Run,200,F,4,7,Candyce McGrone, United States (USA),22.01,PB,0
+World Championship,2015,Run,200,F,5,4,Dina Asher-Smith, Great Britain & N.I. (GBR),22.07,NR,0
+World Championship,2015,Run,200,F,6,8,Jeneba Tarmoh, United States (USA),22.31,,0
+World Championship,2015,Run,200,F,7,3,Ivet Lalova, Bulgaria (BUL),22.41,,0
+World Championship,2015,Run,200,F,8,9,Sherone Simpson, Jamaica (JAM),22.5,SB,0
+World Championship,2015,Run,800,F,1,,Maryna Arzamasava, Belarus (BLR),01:58.0,,0
+World Championship,2015,Run,800,F,2,,Melissa Bishop, Canada (CAN),01:58.1,,0
+World Championship,2015,Run,800,F,3,,Eunice Jepkoech Sum, Kenya (KEN),01:58.2,,0
+World Championship,2015,Run,800,F,4,,Rababe Arafi, Morocco (MAR),01:58.9,,0
+World Championship,2015,Run,800,F,5,,Shelayna Oskan-Clarke, Great Britain & N.I. (GBR),01:59.0,,0
+World Championship,2015,Run,800,F,6,,Nataliia Lupu, Ukraine (UKR),01:59.0,,0
+World Championship,2015,Run,800,F,7,,Joanna Jó?wik, Poland (POL),01:59.1,,0
+World Championship,2015,Run,800,F,8,,Rénelle Lamote, France (FRA),01:59.7,,0
+World Championship,2015,Run,5000,F,1,,Almaz Ayana, Ethiopia (ETH),14:26.8,CR,0
+World Championship,2015,Run,5000,F,2,,Senbere Teferi, Ethiopia (ETH),14:44.1,,0
+World Championship,2015,Run,5000,F,3,,Genzebe Dibaba, Ethiopia (ETH),14:44.1,,0
+World Championship,2015,Run,5000,F,4,,Viola Kibiwot, Kenya (KEN),14:46.2,,0
+World Championship,2015,Run,5000,F,5,,Mercy Cherono, Kenya (KEN),15:01.4,,0
+World Championship,2015,Run,5000,F,6,,Janet Kisa, Kenya (KEN),15:02.7,SB,0
+World Championship,2015,Run,5000,F,7,,Irene Chepet Cheptai, Kenya (KEN),15:03.4,,0
+World Championship,2015,Run,5000,F,8,,Susan Kuijken, Netherlands (NED),15:08.0,,0
+World Championship,2015,Run,5000,F,9,,Ayuko Suzuki, Japan (JPN),15:08.3,PB,0
+World Championship,2015,Run,5000,F,10,,Eloise Wellings, Australia (AUS),15:09.6,SB,0
+World Championship,2015,Run,5000,F,11,,Mimi Belete, Bahrain (BHR),15:17.0,,0
+World Championship,2015,Run,5000,F,12,,Stephanie Twell, Great Britain & N.I. (GBR),15:26.2,,0
+World Championship,2015,Run,5000,F,13,,Nicole Tully, United States (USA),15:27.4,,0
+World Championship,2015,Run,5000,F,14,,Misaki Onishi, Japan (JPN),15:29.6,,0
+World Championship,2015,Run,5000,F,15,,Jennifer Wenth, Austria (AUT),15:35.5,,0
+World Championship,2015,Hurdles,100,F,1,5,Danielle Williams, Jamaica (JAM),12.57,PB,-0.3
+World Championship,2015,Hurdles,100,F,2,8,Cindy Roleder, Germany (GER),12.59,PB,-0.3
+World Championship,2015,Hurdles,100,F,3,2,Alina Talay, Belarus (BLR),12.66,NR,-0.3
+World Championship,2015,Hurdles,100,F,4,4,Brianna Rollins, United States (USA),12.67,,-0.3
+World Championship,2015,Hurdles,100,F,5,7,Tiffany Porter, Great Britain & N.I. (GBR),12.68,,-0.3
+World Championship,2015,Hurdles,100,F,6,3,Noemi Zbären, Switzerland (SUI),12.95,,-0.3
+World Championship,2015,Hurdles,100,F,7,9,Shermaine Williams, Jamaica (JAM),12.95,,-0.3
+World Championship,2015,Hurdles,100,F,8,6,Sharika Nelvis, United States (USA),13.06,,-0.3
+World Championship,2015,Hurdles,400,F,1,5,Zuzana Hejnová, Czech Republic (CZE),53.5,WL,0
+World Championship,2015,Hurdles,400,F,2,2,Shamier Little, United States (USA),53.94,,0
+World Championship,2015,Hurdles,400,F,3,6,Cassandra Tate, United States (USA),54.02,,0
+World Championship,2015,Hurdles,400,F,4,4,Sara Petersen, Denmark (DEN),54.2,,0
+World Championship,2015,Hurdles,400,F,5,9,Janieve Russell, Jamaica (JAM),54.65,PB,0
+World Championship,2015,Hurdles,400,F,6,3,Eilidh Child, Great Britain & N.I. (GBR),54.78,,0
+World Championship,2015,Hurdles,400,F,7,8,Wenda Nel, South Africa (RSA),54.94,,0
+World Championship,2015,Hurdles,400,F,8,7,Kaliese Spencer, Jamaica (JAM),55.47,,0
+World Championship,2019,Run,100,M,1,4,Christian Coleman, United States (USA),9.76,WL,0.6
+World Championship,2019,Run,100,M,2,3,Justin Gatlin, United States (USA),9.89,,0.6
+World Championship,2019,Run,100,M,3,6,Andre De Grasse, Canada (CAN),9.9,PB,0.6
+World Championship,2019,Run,100,M,4,5,Akani Simbine, South Africa (RSA),9.93,SB,0.6
+World Championship,2019,Run,100,M,5,8,Yohan Blake, Jamaica (JAM),9.97,,0.6
+World Championship,2019,Run,100,M,6,7,Zharnel Hughes, Great Britain & N.I. (GBR),10.03,,0.6
+World Championship,2019,Run,100,M,7,2,Filippo Tortu, Italy (ITA),10.07,SB,0.6
+World Championship,2019,Run,10000,M,8,9,Aaron Brown, Canada (CAN),10.08,,0.6
+World Championship,2019,Run,10000,M,1,,Joshua Cheptegei, Uganda (UGA),26:48.4,WL,0
+World Championship,2019,Run,10000,M,2,,Yomif Kejelcha, Ethiopia (ETH),26:49.3,PB,0
+World Championship,2019,Run,10000,M,3,,Rhonex Kipruto, Kenya (KEN),26:50.3,,0
+World Championship,2019,Run,10000,M,4,,Rodgers Kwemoi, Kenya (KEN),26:55.4,PB,0
+World Championship,2019,Run,10000,M,5,,Andamlak Belihu, Ethiopia (ETH),26:56.7,,0
+World Championship,2019,Run,10000,M,6,,Mohammed Ahmed, Canada (CAN),26:59.3,NR,0
+World Championship,2019,Run,10000,M,7,,Lopez Lomong, United States (USA),27:04.7,PB,0
+World Championship,2019,Run,10000,M,8,,Yemaneberhan Crippa, Italy (ITA),27:10.8,NR,0
+World Championship,2019,Run,10000,M,9,,Hagos Gebrhiwet, Ethiopia (ETH),27:11.4,,0
+World Championship,2019,Run,10000,M,10,,Shadrack Kipchirchir, United States (USA),27:24.7,SB,0
+World Championship,2019,Run,10000,M,11,,Alex Korio, Kenya (KEN),27:28.7,PB,0
+World Championship,2019,Run,10000,M,12,,Sondre Nordstad Moen, Norway (NOR),28:02.2,,0
+World Championship,2019,Run,10000,M,13,,Leonard Korir, United States (USA),28:05.7,,0
+World Championship,2019,Run,10000,M,14,,Soufiane Bouchikhi, Belgium (BEL),28:15.4,,0
+World Championship,2019,Run,10000,M,15,,Aron Kifle, Eritrea (ERI),28:16.7,,0
+World Championship,2019,Run,10000,M,16,,Rodrigue Kwizera, Burundi (BDI),28:21.9,PB,0
+World Championship,2019,Run,10000,M,17,,Abdallah Kibet Mande, Uganda (UGA),28:31.5,,0
+World Championship,2019,Run,10000,M,18,,Onesphore Nzikwinkunda, Burundi (BDI),29:11.5,,0
+World Championship,2019,Run,10000,M,,,Hassan Chani, Bahrain (BHR),DNF,,0
+World Championship,2019,Run,10000,M,,,Thierry Ndikumwenayo, Burundi (BDI),DNF,,0
+World Championship,2019,Run,10000,M,,,Julien Wanders, Switzerland (SUI),DNF,,0
+World Championship,2019,Hurdles,400,M,1,4,Karsten Warholm, Norway (NOR),47.42,,0
+World Championship,2019,Hurdles,400,M,2,7,Rai Benjamin, United States (USA),47.66,,0
+World Championship,2019,Hurdles,400,M,3,9,Abderrahman Samba, Qatar (QAT),48.03,,0
+World Championship,2019,Hurdles,400,M,4,2,Kyron McMaster, British Virgin Islands (IVB),48.1,SB,0
+World Championship,2019,Hurdles,400,M,5,3,TJ Holmes, United States (USA),48.2,PB,0
+World Championship,2019,Hurdles,400,M,6,6,Yasmani Copello, Turkey (TUR),48.25,SB,0
+World Championship,2019,Hurdles,400,M,7,5,Alison dos Santos, Brazil (BRA),48.28,PB,0
+World Championship,2019,Hurdles,400,M,8,8,Abdelmalik Lahoulou, Algeria (ALG),49.46,,0
+World Championship,2019,Steeplechase,3000,M,1,,Conseslus Kipruto, Kenya (KEN),08:01.4,WL,0
+World Championship,2019,Steeplechase,3000,M,2,,Lamecha Girma, Ethiopia (ETH),08:01.4,NR,0
+World Championship,2019,Steeplechase,3000,M,3,,Soufiane El Bakkali, Morocco (MAR),08:03.8,SB,0
+World Championship,2019,Steeplechase,3000,M,4,,Getnet Wale, Ethiopia (ETH),08:05.2,PB,0
+World Championship,2019,Steeplechase,3000,M,5,,Djilali Bedrani, France (FRA),08:05.2,PB,0
+World Championship,2019,Steeplechase,3000,M,6,,Benjamin Kigen, Kenya (KEN),08:07.0,,0
+World Championship,2019,Steeplechase,3000,M,7,,Abraham Kibiwott, Kenya (KEN),08:08.5,,0
+World Championship,2019,Steeplechase,3000,M,8,,Hillary Bor, United States (USA),08:09.3,,0
+World Championship,2019,Steeplechase,3000,M,9,,Leonard Kipkemoi Bett, Kenya (KEN),08:10.6,,0
+World Championship,2019,Steeplechase,3000,M,10,,Stanley Kebenei, United States (USA),08:11.2,SB,0
+World Championship,2019,Steeplechase,3000,M,11,,Fernando Carro, Spain (ESP),08:12.3,,0
+World Championship,2019,Steeplechase,3000,M,12,,Andrew Bayer, United States (USA),08:12.5,PB,0
+World Championship,2019,Steeplechase,3000,M,13,,Avinash Sable, India (IND),08:21.4,NR,0
+World Championship,2019,Steeplechase,3000,M,14,,Matthew Hughes, Canada (CAN),08:24.8,,0
+World Championship,2019,Steeplechase,3000,M,15,,Zak Seddon, Great Britain & N.I. (GBR),08:40.2,,0
+World Championship,2019,Steeplechase,3000,M,,,Chala Beyo, Ethiopia (ETH),DNF,,0
+World Championship,2019,Run,100,F,1,6,Shelly-Ann Fraser-Pryce, Jamaica (JAM),10.71,WL,0
+World Championship,2019,Run,100,F,2,7,Dina Asher-Smith, Great Britain & N.I. (GBR),10.83,NR,0
+World Championship,2019,Run,100,F,3,4,Marie-Josée Ta Lou, Ivory Coast (CIV),10.9,,0
+World Championship,2019,Run,100,F,4,5,Elaine Thompson, Jamaica (JAM),10.93,,0
+World Championship,2019,Run,100,F,5,8,Murielle Ahouré, Ivory Coast (CIV),11.02,SB,0
+World Championship,2019,Run,100,F,6,9,Jonielle Smith, Jamaica (JAM),11.06,,0
+World Championship,2019,Run,100,F,7,3,Teahna Daniels, United States (USA),11.19,,0
+World Championship,2019,Run,100,F,,2,Dafne Schippers, Netherlands (NED),DNS,,0
+World Championship,2019,Run,200,F,1,7,Dina Asher-Smith, Great Britain & N.I. (GBR),21.88,NR,0.9
+World Championship,2019,Run,200,F,2,6,Brittany Brown, United States (USA),22.22,PB,0.9
+World Championship,2019,Run,200,F,3,4,Mujinga Kambundji, Switzerland (SUI),22.51,,0.9
+World Championship,2019,Run,200,F,4,5,Anglerne Annelus, United States (USA),22.59,,0.9
+World Championship,2019,Run,200,F,5,8,Dezerea Bryant, United States (USA),22.63,,0.9
+World Championship,2019,Run,200,F,6,2,Gina Bass, Gambia (GAM),22.71,,0.9
+World Championship,2019,Run,200,F,7,3,Ivet Lalova-Collio, Bulgaria (BUL),22.77,,0.9
+World Championship,2019,Run,200,F,8,9,Tynia Gaither, Bahamas (BAH),22.9,,0.9
+World Championship,2019,Run,800,F,1,8,Halimah Nakaayi, Uganda (UGA),01:58.0,NR,0
+World Championship,2019,Run,800,F,2,4,Raevyn Rogers, United States (USA),01:58.2,SB,0
+World Championship,2019,Run,800,F,3,5,Ajee Wilson, United States (USA),01:58.8,,0
+World Championship,2019,Run,800,F,4,7,Winnie Nanyondo, Uganda (UGA),01:59.2,,0
+World Championship,2019,Run,800,F,5,9,Eunice Jepkoech Sum, Kenya (KEN),01:59.7,,0
+World Championship,2019,Run,800,F,6,6,Natoya Goule, Jamaica (JAM),02:00.1,,0
+World Championship,2019,Run,800,F,7,3,Rababe Arafi, Morocco (MAR),02:00.5,,0
+World Championship,2019,Run,800,F,8,2,Ce'Aira Brown, United States (USA),02:03.0,,0
+World Championship,2019,Run,5000,F,1,,Hellen Obiri, Kenya (KEN),14:26.7,CR,0
+World Championship,2019,Run,5000,F,2,,Margaret Chelimo Kipkemboi, Kenya (KEN),14:27.5,PB,0
+World Championship,2019,Run,5000,F,3,,Konstanze Klosterhalfen, Germany (GER),14:28.4,,0
+World Championship,2019,Run,5000,F,4,,Tsehay Gemechu, Ethiopia (ETH),14:29.6,PB,0
+World Championship,2019,Run,5000,F,5,,Lilian Kasait Rengeruk, Kenya (KEN),14:36.1,PB,0
+World Championship,2019,Run,5000,F,6,,Fantu Worku, Ethiopia (ETH),14:40.5,PB,0
+World Championship,2019,Run,5000,F,7,,Laura Weightman, Great Britain & N.I. (GBR),14:44.6,PB,0
+World Championship,2019,Run,5000,F,8,,Hawi Feysa, Ethiopia (ETH),14:44.9,,0
+World Championship,2019,Run,5000,F,9,,Karissa Schweizer, United States (USA),14:45.2,PB,0
+World Championship,2019,Run,5000,F,10,,Eilish McColgan, Great Britain & N.I. (GBR),14:46.2,PB,0
+World Championship,2019,Run,5000,F,11,,Elinor Purrier, United States (USA),14:58.2,PB,0
+World Championship,2019,Run,5000,F,12,,Camille Buscomb, New Zealand (NZL),14:58.6,PB,0
+World Championship,2019,Run,5000,F,13,,Andrea Seccafien, Canada (CAN),15:00.0,PB,0
+World Championship,2019,Run,5000,F,14,,Nozomi Tanaka, Japan (JPN),15:00.0,PB,0
+World Championship,2019,Run,5000,F,15,,Dominique Scott-Efurd, South Africa (RSA),15:24.5,,0
+World Championship,2019,Hurdles,100,F,1,4,Nia Ali, United States (USA),12.34,PB,0
+World Championship,2019,Hurdles,100,F,2,6,Kendra Harrison, United States (USA),12.46,,0
+World Championship,2019,Hurdles,100,F,3,5,Danielle Williams, Jamaica (JAM),12.47,,0
+World Championship,2019,Hurdles,100,F,4,7,Tobi Amusan, Nigeria (NGR),12.49,,0
+World Championship,2019,Hurdles,100,F,5,3,Andrea Vargas, Costa Rica (CRC),12.64,NR,0
+World Championship,2019,Hurdles,100,F,6,2,Nadine Visser, Netherlands (NED),12.66,,0
+World Championship,2019,Hurdles,100,F,7,8,Janeek Brown, Jamaica (JAM),12.88,,0
+World Championship,2019,Hurdles,100,F,,9,Megan Tapper, Jamaica (JAM),DNF,,0
+World Championship,2019,Hurdles,400,F,1,6,Dalilah Muhammad, United States (USA),52.16,WR,0
+World Championship,2019,Hurdles,400,F,2,4,Sydney McLaughlin, United States (USA),52.23,PB,0
+World Championship,2019,Hurdles,400,F,3,5,Rushell Clayton, Jamaica (JAM),53.74,PB,0
+World Championship,2019,Hurdles,400,F,4,9,Léa Sprunger, Switzerland (SUI),54.06,NR,0
+World Championship,2019,Hurdles,400,F,5,8,Zuzana Hejnová, Czech Republic (CZE),54.23,,0
+World Championship,2019,Hurdles,400,F,6,2,Ashley Spencer, United States (USA),54.45,,0
+World Championship,2019,Hurdles,400,F,7,3,Anna Ryzhykova, Ukraine (UKR),54.45,SB,0
+World Championship,2019,Hurdles,400,F,8,7,Sage Watson, Canada (CAN),54.82,,0
